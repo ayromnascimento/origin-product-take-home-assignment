@@ -89,4 +89,3 @@ Key Results:
 a) Creat a workflow centralizing all 6 documents (deadline 30/5)
 b) Simplify the registration of wineries in 3 steps (deadline 20/4)
 c) Consolidate on the platform all agents that participate in the import process (deadline 5/6)
-
